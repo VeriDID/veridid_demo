@@ -1,1 +1,1 @@
-# verifier_demo
+# veridid_demo
